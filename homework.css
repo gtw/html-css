@@ -60,7 +60,7 @@ table {
 h1 {
 
 	position: relative;
-	background: DarkBlue;
+	background: MidnightBlue;
 	height: 80px;
 	font-size: 40px;
 	color: white;
@@ -77,7 +77,6 @@ h2	{
 
 .page_desc {
 
-	font-family: Arial;
 	font-weight: bold;
 	font-size: 24px;
 	color: DarkGray;
@@ -90,7 +89,7 @@ h2	{
 	background-color: DarkGray;
 	margin-top: 1px;
 	margin-bottom: 15px;
-	height: 3px;
+	height: 4px;
 }
 
 .horizontal_list li {
@@ -108,7 +107,7 @@ ul {
 	list-style-type: disc;
 	list-style-position: inside;
 	font-weight: bold;
- 	border: 1px solid Blue;
+ 	border: 1px solid DodgerBlue;
  	text-indent: 5px;
  	padding: 20px 0px;
  	margin-bottom: 15px;
@@ -120,4 +119,6 @@ ol {
 	list-style-type: decimal;
 	list-style-position: inside;
 	text-indent: 15px;
+	margin-bottom: 20px;
+	margin-top: 5px;
 }	
